@@ -1,0 +1,15 @@
+/* #plus {
+}
+#minus {
+} */
+.box-main {
+  margin-top: 10vh;
+}
+.box-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rent {
+  margin: 1rem 2rem;
+}

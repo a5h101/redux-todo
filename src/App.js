@@ -1,10 +1,12 @@
 import './App.css';
-
+import Navbar from './components/Navbar/Navbar';
+import Balance from './components/Balance/Balance';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Redux To DO</h2>
+        <Navbar />
+        <Balance />
       </header>
     </div>
   );
